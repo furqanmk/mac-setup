@@ -14,6 +14,9 @@ defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-ty
 ### Terminal
 - iTerm 2
 - Oh My Zsh
+  - use the custom [akhnoster theme](akhnoster.zsh-theme)
+  - use `Meslo LG L DZ for Powerline` font
+  - use [Solarized](https://ethanschoonover.com/solarized)
 - https://stackoverflow.com/a/10485061
 - https://github.com/romkatv/powerlevel10k
 - https://gist.github.com/kevin-smets/8568070
